@@ -30,35 +30,42 @@ A arquitetura adotada prioriza escalabilidade, organização do código e facili
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/anawcarol?v=4" width=100><br>
-      <b><a href="https://github.com/anawcarol">Ana Carolina Fialho</a></b><br>
+    <td align="center" colspan="3">
+      <img src="https://avatars.githubusercontent.com/anawcarol?v=4" width=100 style="border-radius: 50%;"><br>
+      <b>Ana Carolina Fialho</b><br>
+      <a href="https://github.com/anawcarol">@anawcarol</a>
     </td>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/SamaraAlvess?v=4" width=100><br>
-      <b><a href="https://github.com/SamaraAlvess">Maria Samara A. Silva</a></b><br>
+    <td align="center" colspan="3">
+      <img src="https://avatars.githubusercontent.com/SamaraAlvess?v=4" width=100 style="border-radius: 50%;"><br>
+      <b>Maria Samara A. Silva</b><br>
+      <a href="https://github.com/SamaraAlvess">@SamaraAlvess</a>
     </td>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/GFlyan?v=4" width=100><br>
-      <b><a href="https://github.com/GFlyan">Guilherme Flyan Araujo</a></b><br>
+    <td align="center" colspan="3">
+      <img src="https://avatars.githubusercontent.com/GFlyan?v=4" width=100 style="border-radius: 50%;"><br>
+      <b>Guilherme Flyan Araujo</b><br>
+      <a href="https://github.com/GFlyan">@GFlyan</a>
     </td>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/daisha19?v=4" width=100><br>
-      <b><a href="https://github.com/daisha19">Raissa Silva de Oliveira</a></b><br>
+    <td align="center" colspan="3">
+      <img src="https://avatars.githubusercontent.com/daisha19?v=4" width=100 style="border-radius: 50%;"><br>
+      <b>Raissa Silva de Oliveira</b><br>
+      <a href="https://github.com/daisha19">@daisha19</a>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/Marjoriemitzi?v=4" width=100><br>
-      <b><a href="https://github.com/Marjoriemitzi">Marjorie Mitzi C. Rodrigues</a></b><br>
+    <td align="center" colspan="4">
+      <img src="https://avatars.githubusercontent.com/Marjoriemitzi?v=4" width=100 style="border-radius: 50%;"><br>
+      <b>Marjorie Mitzi C. Rodrigues</b><br>
+      <a href="https://github.com/Marjoriemitzi">@Marjoriemitzi</a>
     </td>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/JoaoMarceloGCN?v=4" width=100><br>
-      <b><a href="https://github.com/JoaoMarceloGCN">João Marcelo G. C. Naves</a></b><br>
+    <td align="center" colspan="4">
+      <img src="https://avatars.githubusercontent.com/JoaoMarceloGCN?v=4" width=100 style="border-radius: 50%;"><br>
+      <b>João Marcelo G. C. Naves</b><br>
+      <a href="https://github.com/JoaoMarceloGCN">@JoaoMarceloGCN</a>
     </td>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/pedrohpsantos?v=4" width=100><br>
-      <b><a href="https://github.com/pedrohpsantos">Pedro Henrique P. Santos</a></b><br>
+    <td align="center" colspan="4">
+      <img src="https://avatars.githubusercontent.com/pedrohpsantos?v=4" width=100 style="border-radius: 50%;"><br>
+      <b>Pedro Henrique P. Santos</b><br>
+      <a href="https://github.com/pedrohpsantos">@pedrohpsantos</a>
     </td>
   </tr>
 </table>
